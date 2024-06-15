@@ -1,0 +1,49 @@
+
+.banner .swiper {
+    width: 240px;
+    height: 320px;
+  }
+  
+  .banner .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .banner .swiper-slide:nth-child(1n) {
+   /* background-color: rgb(206, 17, 17); */
+    background-image: url('src/assets/banner-books/usha1.png');
+  }
+  
+  .banner .swiper-slide:nth-child(2n) {
+    /* background-color: rgb(0, 140, 255); */
+    background-image: url('src/assets/banner-books/usha2.png');
+  }
+  
+  .banner .swiper-slide:nth-child(3n) {
+    background-image: url('src/assets/banner-books/usha3.png');
+  }
+  
+  .banner .swiper-slide:nth-child(4n) {
+    background-image: url('src/assets/banner-books/usha4.png');
+  }
+  
+  .banner .swiper-slide:nth-child(5n) {
+    background-image: url('src/assets/banner-books/usha5.png');
+  }
+  /* .banner .swiper-slide:nth-child(6n) {
+    background-image: url('src/assets/banner-books/usha6.png');
+  }
+  .banner .swiper-slide:nth-child(7n) {
+    background-image: url('src/assets/banner-books/usha7.png');
+  }
+  .banner .swiper-slide:nth-child(8n) {
+    background-image: url('src/assets/banner-books/usha5.png');
+  } */
+ 
+ 
+  
